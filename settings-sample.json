@@ -1,0 +1,8 @@
+{
+    "siteDir": "../public",
+    "region": "us-east-1",
+    "resourcePrefix": "ResourcePrefix",
+    "domainName": "domain.name",
+    "certArn": "domain-ssl-cert-arn",
+    "hostedZoneExists": true
+}
